@@ -23,13 +23,11 @@ The code consists of the following components:
 1. **Clone the repository:**
 
    ```bash
-   git clone
+   git clone https://github.com/Suraj-Kalwaghe/Project-2_ENPM_661.git
    ```
 
 ## Install dependencies
 
 ```bash
     pip install numpy pygame opencv-python
-
-
 ```
